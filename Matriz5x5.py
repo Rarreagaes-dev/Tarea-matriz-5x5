@@ -1,7 +1,6 @@
 # Crear matriz 5x5 (5 estudiantes x 5 materias)
 calificaciones = []
 
-# Ingreso de datos por consola
 for i in range(5):
     fila = []
     print(f"\nEstudiante {i + 1}")
